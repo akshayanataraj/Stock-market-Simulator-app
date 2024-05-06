@@ -1,4 +1,4 @@
-# equity_iq
+# EquityIQ - A stock market simulator app
 
 A new Flutter project.
 
